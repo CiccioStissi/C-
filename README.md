@@ -1,2 +1,2 @@
 # Programming
-Writing a program with C and C++
+Write a in C++
